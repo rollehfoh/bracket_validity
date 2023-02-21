@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 nabor = input("Введите набор скобочек: ")
 
 n1=nabor.find('{')
@@ -141,7 +135,6 @@ else:
     print('false')
 
 
-# In[ ]:
 
 
 
